@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Enemy
+  - SpecialCounter
+  - DestroyObjectCollider
+  - WayPoint
+  - SpecialEnemy
+  - EnemySpecialAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Eyes
+  - Water
+  - UI
+  - Enemies
+  - Player
+  - SpecialCounter
+  - DestroyObjectCollider
+  - Ground
+  - Background
+  - Background 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainMenu
+    uniqueID: 1639359299
+    locked: 0
+  - name: Background
+    uniqueID: 1313143677
+    locked: 0
+  - name: Background 2
+    uniqueID: 1693222353
+    locked: 0
+  - name: Ground
+    uniqueID: 3651959407
+    locked: 0
+  - name: Player
+    uniqueID: 117280743
+    locked: 0
+  - name: Enemies
+    uniqueID: 2265179093
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
